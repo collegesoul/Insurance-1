@@ -1,6 +1,6 @@
-@extends("layouts.template")
+@extends("layouts.template1")
 @section("content")
-    <div class="mt-4">
+    <div>
         <table class="table table-striped">
             <thead>
             <tr>
